@@ -153,7 +153,7 @@ Cloudflare Pages 也可以部署，但 Next.js 16 的适配需要额外关注运
 如果这个项目帮你节省了排版时间，可以请作者喝杯咖啡。也欢迎通过 Issue 反馈真实使用场景，后续会优先围绕内容创作者、运营团队和定制化公众号排版工作流继续优化。
 
 <p align="center">
-  <img src="./public/media/sponsor-wechat.jpg" alt="微信赞赏码" width="320" />
+  <img src="./public/media/sponsor-wechat.jpg" alt="微信赞赏码" width="220" />
 </p>
 
 ## License
