@@ -7,9 +7,6 @@ on:
         description: Release tag to upload assets to
         required: true
         default: v1.0.1
-  push:
-    tags:
-      - 'v*'
 
 permissions:
   contents: write
