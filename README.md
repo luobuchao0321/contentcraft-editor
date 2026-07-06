@@ -164,6 +164,8 @@ npm run dist:linux
 
 详见 [CONTRIBUTING.md](./CONTRIBUTING.md) 和 [Roadmap](./docs/ROADMAP.md)。
 
+待创建的社区任务草稿见：[docs/ISSUES_TO_CREATE.md](./docs/ISSUES_TO_CREATE.md)。
+
 ## 推广与收录
 
 - 发布文案：[docs/promotion/launch-posts.md](./docs/promotion/launch-posts.md)
