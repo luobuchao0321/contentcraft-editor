@@ -1,0 +1,13 @@
+<svg viewBox="0 0 620 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Reusable WeChat SVG hero title">
+  <defs>
+    <linearGradient id="heroTitleGradient" x1="0" x2="1">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="620" height="180" rx="24" fill="url(#heroTitleGradient)"/>
+  <rect x="34" y="34" width="88" height="88" rx="18" fill="rgba(255,255,255,.13)"/>
+  <path d="M58 78h42M58 98h70" stroke="#fff" stroke-width="10" stroke-linecap="round"/>
+  <text x="150" y="78" fill="#fff" font-size="34" font-weight="700">可复用 SVG 标题块</text>
+  <text x="150" y="124" fill="rgba(255,255,255,.78)" font-size="20">Replace text, image and colors safely</text>
+</svg>
